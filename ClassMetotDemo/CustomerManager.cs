@@ -11,6 +11,7 @@ namespace ClassMetotDemo
         static public void Add(Customer customer)
         { 
             Console.WriteLine("Müşteri Eklendi");
+
         }
        static public string Delete(int Id)
         {
